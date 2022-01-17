@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming with C, C++ and python, MicroPython
 - 🌱 I’m currently learning programming embedded systems using C, C++ and MicroPython
 - 💞️ I’m looking to collaborate on interesting topics :).
-- 📫 How to reach me --> TBD!
+- 📫 How to reach me --> TBD ! .. but I am also available in Bitbucket.
 
 
 <!---
